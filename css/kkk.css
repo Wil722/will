@@ -1,0 +1,32 @@
+body{
+    background: url(https://s2.glbimg.com/rlv6LH--Y7BXxdRmusaZyRjMP4A=/e.glbimg.com/og/ed/f/original/2014/07/16/space.jpg);
+    background-size: auto auto;
+    font-family: purisa;
+    
+  
+  }
+  .menu{
+    background: black;
+  }
+  a{
+    color-text: purple;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-stile: none;
+  }
+  .subtitle,
+  .site-title{
+    text-aling:;
+      color: purple;
+   
+  
+   
+  }
